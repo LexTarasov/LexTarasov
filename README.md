@@ -2,9 +2,9 @@
 <h3 align="center">A passionate student from Venezuela</h3>
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/533bcf9ea232dccc8dcd070b4d03d022/tumblr_prwyedU4el1tf04pfo1_640.gifv">
 
-- 🔭 I’m currently working on **a python project**
+- 🔭 I’m currently working on **a html & css project**
 
-- 🌱 I’m currently learning **python, github**
+- 🌱 I’m currently learning **JS, github**
 
 - 👨‍💻 All of my projects are available at [https://github.com/LexTarasov/python_projects1.git](https://github.com/LexTarasov/python_projects1.git)
 
