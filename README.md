@@ -4,17 +4,17 @@
 
 - 🔭 I’m currently working on **on my portafolio with HTML, CSS and JS**
 
-- 🌱 I’m currently learning **JS, tailwind**
+- 🌱 I’m currently learning **JS, React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/LexTarasov/python_projects1.git](https://github.com/LexTarasov/python_projects1.git)
+- 👨‍💻 All of my projects are available at [https://github.com/LexTarasov](https://github.com/LexTarasov)
 
-- 💬 Ask me about **Git, Linux, Python**
+- 💬 Ask me about **HTML, CSS, Git, Linux**
 
 - 🪧 How to reach me **lextarasov02@gmail.com**
 
 - 📄 Know about my experiences [https://alexandratarasov15.wixsite.com/itsal-ex](https://alexandratarasov15.wixsite.com/itsal-ex)
 
-- ⚡ Fun fact **I'm new ;)**
+- ⚡ Fun fact **Proud mom of a boxer dog 🐶 **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
