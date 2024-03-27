@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **JS, React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/LexTarasov](https://github.com/LexTarasov)
+- 👨‍💻 All of my projects are available at [https://github.com/LexTarasov](https://github.com/LexTarasov/Learning-JavaScript)
 
 - 💬 Ask me about **HTML, CSS, Git, Linux**
 
@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [https://alexandratarasov15.wixsite.com/itsal-ex](https://alexandratarasov15.wixsite.com/itsal-ex)
 
-- ⚡ Fun fact **Proud mom of a boxer dog 🐶 **
+- ⚡ Fun fact **Proud mom of a boxer dog 🐶**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
