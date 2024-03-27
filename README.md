@@ -17,9 +17,11 @@
 - ⚡ Fun fact **Proud mom of a boxer dog 🐶**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
+<div align="left">
+  <a href="www.linkedin.com/in/alexandra-de-la-cruz-tarasov-7b06002bb" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
