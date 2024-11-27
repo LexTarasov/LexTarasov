@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **HTML, CSS, Git, Linux**
 
-- 🪧 How to reach me **lextarasov02@gmail.com**
+- 🪧 How to reach me **alexandratarasov15@gmail.com**
 
 - 📄 Know about my experiences [https://alexandratarasov15.wixsite.com/itsal-ex](https://alexandratarasov15.wixsite.com/itsal-ex)
 
