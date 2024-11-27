@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alexandra</h1>
 <h3 align="center">A passionate student from Venezuela</h3>
-<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/533bcf9ea232dccc8dcd070b4d03d022/tumblr_prwyedU4el1tf04pfo1_640.gifv">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/dd/c0/13/ddc013635f19439384eca06eb076e0e4.gif">
 
 - 🔭 I’m currently working on **on my portafolio with HTML, CSS and JS**
 
@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/LexTarasov](https://github.com/LexTarasov/Learning-JavaScript)
 
-- 💬 Ask me about **HTML, CSS, Git, Linux**
+- 💬 Ask me about **HTML, CSS, Wix, React**
 
 - 🪧 How to reach me **alexandratarasov15@gmail.com**
 
