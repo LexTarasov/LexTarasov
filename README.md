@@ -1,20 +1,16 @@
 <h1 align="center">Hi 👋, I'm Alexandra</h1>
-<h3 align="center">A passionate student from Venezuela</h3>
+<h3 align="center">A software developer from Venezuela</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/dd/c0/13/ddc013635f19439384eca06eb076e0e4.gif">
 
-- 🔭 I’m currently working on **on my portafolio with HTML, CSS and JS**
+- 🔭 I’m currently working on **my backend skills**
 
-- 🌱 I’m currently learning **JS, React**
+- 🌱 I’m currently learning **Node JS, React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/LexTarasov](https://github.com/LexTarasov/Learning-JavaScript)
 
-- 💬 Ask me about **HTML, CSS, Wix, React**
-
-- 🪧 How to reach me **alexandratarasov15@gmail.com**
+- 🪧 How to reach me **alextrasovcr@gmail.com**
 
 - 📄 Know about my experiences [https://alexandratarasov15.wixsite.com/itsal-ex](https://alexandratarasov15.wixsite.com/itsal-ex)
-
-- ⚡ Fun fact **Proud mom of a boxer dog 🐶**
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
