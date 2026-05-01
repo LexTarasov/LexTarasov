@@ -28,20 +28,22 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSDKn3vA2YUbXzN0ZC3gALWJ08gJN-Drl15w&sg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="40" alt="wordpress logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img src="https://nodejs.org/static/logos/nodejsLight.svg" height="40" alt="node logo"  />
+  <img src="https://cdn.brandfetch.io/idKNeNc9hU/w/801/h/800/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1772466260176"  height="40" alt="xano logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn-1.webcatalog.io/catalog/nordcraft/nordcraft-icon-filled-256.webp?v=1753849044613"  height="40" alt="xano logo" />
+  <img width="12" />
+  <img src="https://cdn.brandfetch.io/idW5s392j1/w/338/h/338/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1738315794862"  height="40" alt="xano logo" />
+  <img width="12" />
 </div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lextarasov&show_icons=true&locale=en&layout=compact" alt="lextarasov" /></p>
+
 
 
 
