@@ -10,7 +10,7 @@
 
 - 🪧 How to reach me **alextrasovcr@gmail.com**
 
-- 📄 Know about my experiences [https://alexandratarasov15.wixsite.com/itsal-ex](https://alexandratarasov15.wixsite.com/itsal-ex)
+- 📄 Know about my experiences [WebLex-code](https://weblex-code.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
